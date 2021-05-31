@@ -1,0 +1,16 @@
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\bin\Debug\net5.0\MoshDbMigrator.exe
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\bin\Debug\net5.0\MoshDbMigrator.deps.json
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\bin\Debug\net5.0\MoshDbMigrator.runtimeconfig.json
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\bin\Debug\net5.0\MoshDbMigrator.runtimeconfig.dev.json
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\bin\Debug\net5.0\MoshDbMigrator.dll
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\bin\Debug\net5.0\ref\MoshDbMigrator.dll
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\bin\Debug\net5.0\MoshDbMigrator.pdb
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\obj\Debug\net5.0\MoshDbMigrator.csprojAssemblyReference.cache
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\obj\Debug\net5.0\MoshDbMigrator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\obj\Debug\net5.0\MoshDbMigrator.AssemblyInfoInputs.cache
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\obj\Debug\net5.0\MoshDbMigrator.AssemblyInfo.cs
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\obj\Debug\net5.0\MoshDbMigrator.csproj.CoreCompileInputs.cache
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\obj\Debug\net5.0\MoshDbMigrator.dll
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\obj\Debug\net5.0\ref\MoshDbMigrator.dll
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\obj\Debug\net5.0\MoshDbMigrator.pdb
+C:\Users\tonyk\source\repos\MoshDbMigrator\MoshDbMigrator\obj\Debug\net5.0\MoshDbMigrator.genruntimeconfig.cache
